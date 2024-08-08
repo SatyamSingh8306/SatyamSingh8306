@@ -1,14 +1,14 @@
 <h1>💫 About Me:</h1>
-<p>Hi 👋, I'm Satyam Singh</p>
+<h4>Hi 👋, I'm Satyam Singh</h4>
 
 <h2>😁 Education</h2>
-<p>I am currently pursuing a B.Tech in Computer Science and Engineering (CSE) at the National Institute of Technology, Nagaland.</p>
+<h4>I am currently pursuing a B.Tech in Computer Science and Engineering (CSE) at the National Institute of Technology, Nagaland.</h4>
 
 <h2>Interests and Activities</h2>
 <ul>
-    <li>👀 I’m interested in Artificial Intelligence.</li>
-    <li>🌱 I’m currently learning about Machine Learning.</li>
-    <li>💞️ I’m looking to collaborate on real-life projects.</li>
+    <h4><li>👀 I’m interested in Artificial Intelligence.</li></h4>
+    <h4><li>🌱I’m currently learning about Machine Learning.</li></h4>
+    <h4><li>💞️I’m looking to collaborate on real-life projects.</li></h4>
 </ul>
 
 
