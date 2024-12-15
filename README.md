@@ -6,9 +6,9 @@
 
 <h2>Interests and Activities</h2>
 <ul>
-    <h4><li>👀 I’m interested in Artificial Intelligence.</li></h4>
-    <h4><li>🌱I’m currently learning about Machine Learning.</li></h4>
-    <h4><li>💞️I’m looking to collaborate on real-life projects.</li></h4>
+    <h4><li>👀 I’m deeply passionate about Artificial Intelligence, Machine Learning, and Deep Learning, with a keen interest in exploring how AI can solve real-world problems. I’m particularly fascinated by Neural Networks, Natural Language Processing (NLP), and their applications in fields like healthcare, finance, and automation.</li></h4>
+    <h4><li>🌱 I’m currently diving into Deep Learning, focusing on Recurrent Neural Networks (RNNs) and their use in sequence-based data like text, time-series analysis, and speech recognition. I’m also enhancing my skills in frameworks like TensorFlow and PyTorch while exploring advanced techniques such as attention mechanisms and transformer models.</li></h4>
+    <h4><li>💞️ I’m actively looking to collaborate on real-life AI and ML projects that involve creating impactful solutions. I’m particularly interested in projects related to predictive modeling, computer vision, and NLP, and I enjoy contributing to open-source communities to build innovative technologies.</li></h4>
 </ul>
 
 
