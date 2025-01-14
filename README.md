@@ -42,9 +42,10 @@
 <h2>📊 GitHub Stats</h2>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=SatyamSingh8306&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatyamSingh8306&theme=dark&hide_border=false" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com/?user=SatyamSingh8306&theme=dark&hide_border=false" alt="GitHub Streak">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamSingh8306&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </p>
+
 
 ---
 
