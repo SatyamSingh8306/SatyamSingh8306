@@ -263,7 +263,7 @@ print("Building the future with AI, one project at a time! 🚀")
 </div>
 
 ### 🏆 **ACADEMIC EXCELLENCE**
-- 🎯 **CGPA: 9.85** (Top performer in CS Department)
+- 🎯 **CGPA:kaha na mat dekh yrr** (Someone in CS Department)
 - 🥈 **2nd Position** in "Treasure Hunt" Coding Competition
 - 👨‍💻 **Assistant Coding Secretary** at NIT Nagaland
 - 🔬 Faculty-supervised **Research Project** in Deep Learning & Computer Vision
