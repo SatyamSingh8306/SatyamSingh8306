@@ -53,7 +53,7 @@ class AIArchitect:
         self.name = "Satyam Singh"
         self.role = "AI/ML Engineer | Startup Founder | Research Enthusiast"
         self.location = "NIT Nagaland, India 🇮🇳"
-        self.cgpa = 9.85
+        self.cgpa = mai nahi bataunga
         self.company = "AetherMind (Founder)"
         self.portfolio = "codebysatyam.me"
         
