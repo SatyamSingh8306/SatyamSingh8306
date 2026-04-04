@@ -55,7 +55,7 @@ class AIArchitect:
         self.location = "NIT Nagaland, India 🇮🇳"
         self.cgpa = mai nahi bataunga
         self.company = "AetherMind (Founder)"
-        self.portfolio = "codebysatyam.me"
+        self.portfolio = "[codebysatyam.me](https://codebysatyam.vercel.app/)"
         
     def get_current_roles(self):
         return {
