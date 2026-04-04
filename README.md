@@ -205,43 +205,6 @@ print("Building the future with AI, one project at a time! 🚀")
 
 ---
 
-## 🚀 **FLAGSHIP PROJECTS**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
-        <b>🤖 WebMind - AI Web Agent</b><br>
-        <sub>LangChain • Gemini 2 Flash • BeautifulSoup</sub><br>
-        <em>Autonomous web browsing with step-wise reasoning</em>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"><br>
-        <b>🏥 MedicalDAS 2.0</b><br>
-        <sub>TensorFlow • OpenCV • ElevenLabs • GROQ</sub><br>
-        <em>Multimodal AI healthcare assistant</em>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="100"><br>
-        <b>🚗 YOLO Vehicle Detection</b><br>
-        <sub>YOLOv8 • OpenCV • Real-time Processing</sub><br>
-        <em>Smart traffic monitoring system</em>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
-        <b>💳 AI Credit Scoring</b><br>
-        <sub>Gradient Boosting • Flask • 80% Accuracy</sub><br>
-        <em>ML-powered financial assessment</em>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 📊 **PERFORMANCE ANALYTICS**
 
 <div align="center">
@@ -267,35 +230,6 @@ print("Building the future with AI, one project at a time! 🚀")
 - 🥈 **2nd Position** in "Treasure Hunt" and "Innovathon" Competition
 - 👨‍💻 **Assistant Coding Secretary** at NIT Nagaland
 - 🔬 Faculty-supervised **Research Project** in Deep Learning & Computer Vision
-
----
-
-## 💼 **PROFESSIONAL EXPERIENCE**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"><br>
-        <b>🚀 Founder & AI Architect</b><br>
-        <sub>AetherMind | Current</sub><br>
-        <em>Building next-gen AI solutions</em>
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"><br>
-        <b>🤖 AI/ML Intern</b><br>
-        <sub>Edunet Foundation (AICTE) | Apr 2025</sub><br>
-        <em>Azure AI & Deep Learning</em>
-      </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80"><br>
-        <b>💻 Software Development Intern</b><br>
-        <sub>Sasefied | Apr 2025</sub><br>
-        <em>AI Resume Builder & Job Matching</em>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
