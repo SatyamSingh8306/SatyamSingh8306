@@ -16,7 +16,7 @@
   <p align="center">
     <b>🎓 B.Tech CSE @ NIT Nagaland | CGPA: mat dekh bhai | Expected Grad: May 2027</b><br>
     <b>🚀 Founder & AI Architect at <a href="https://aethermind-one.vercel.app/">AetherMind</a></b><br>
-    <b>💼 AI/ML Intern @ Edunet Foundation (AICTE) & Sasefied</b>
+    <b>💼 SDE Sasefied</b>
   </p>
 </div>
 
