@@ -1,20 +1,25 @@
 <div align="center">
 
-```
- ▲ SATYAM SINGH
-```
+<img src="https://raw.githubusercontent.com/SatyamSingh8306/SatyamSingh8306/main/header.svg" width="100%" />
 
 *"The unexamined commit is not worth pushing."*
 
 <p>
-  <a href="https://codebysatyam.me"><img src="https://img.shields.io/badge/Portfolio-codebysatyam.me-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/satyam8306"><img src="https://img.shields.io/badge/LinkedIn-satyam8306-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://huggingface.co/aicinema69"><img src="https://img.shields.io/badge/🤗_HuggingFace-aicinema69-FFD21E?style=for-the-badge&logoColor=black" /></a>
-</p>
-<p>
-  <a href="https://kaggle.com/satyamsingh8306"><img src="https://img.shields.io/badge/Kaggle-satyamsingh8306-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="mailto:satyamsingh7734@gmail.com"><img src="https://img.shields.io/badge/Gmail-satyamsingh7734-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/SatyamSingh8306"><img src="https://img.shields.io/badge/GitHub-SatyamSingh8306-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://codebysatyam.me">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white&label=codebysatyam.me&labelColor=000000&color=00C896" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/satyam8306">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" />
+  </a>
+  &nbsp;
+  <a href="https://huggingface.co/aicinema69">
+    <img src="https://img.shields.io/badge/HuggingFace-aicinema69-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000&labelColor=FFD21E&color=FFA500" />
+  </a>
+  &nbsp;
+  <a href="mailto:satyamsingh7734@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=C0392B" />
+  </a>
 </p>
 
 </div>
