@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://codebysatyam.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white&label=codebysatyam.me&labelColor=000000&color=00C896" />
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white&label=codebysatyam.vercel.app&labelColor=000000&color=00C896" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/satyam8306">
