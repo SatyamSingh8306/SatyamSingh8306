@@ -93,11 +93,21 @@ ATS-compliant resume platform, interview scoring with Redis, GPT-3 recruitment c
 ## ◈ Stack
 
 ```
-Languages   Python · TypeScript · JavaScript · Java · C · SQL
-AI/ML       PyTorch · TensorFlow · LangChain · LangGraph · Transformers · Ollama
-Vision/NLP  OpenCV · YOLO · spaCy · NLTK · SHAP · LIME · Grad-CAM
-Web         React · Next.js · FastAPI · Node.js · MongoDB · Supabase
-DevOps      Docker · GitHub Actions · Redis · CI/CD
+Languages     Python · TypeScript · JavaScript · Java · C · SQL
+
+Neural Nets   ANN · CNN · RNN · LSTM · GRU · Bidirectional RNN · Transformers
+              Attention mechanisms · Seq2Seq · Encoder-Decoder · and deeper...
+
+LLM/GenAI     Fine-tuning · LoRA · QLoRA · Quantization (GPTQ, GGUF, AWQ)
+              Ternary / 1-bit weights · Knowledge Distillation · RLHF
+              RAG · Agentic pipelines · LangChain · LangGraph · LangSmith · Ollama
+
+Frameworks    PyTorch · TensorFlow · Keras · Scikit-learn · HuggingFace Transformers
+              ONNX · SHAP · LIME · Grad-CAM · OpenCV · YOLO · spaCy · NLTK
+
+Web           React · Next.js · FastAPI · Node.js · Express · MongoDB · Supabase · Flask
+
+Infra         Docker · Kubernetes · AWS · RabbitMQ · Redis · GitHub Actions · CI/CD
 ```
 
 ---
