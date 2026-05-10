@@ -5,7 +5,7 @@
 *"The unexamined commit is not worth pushing."*
 
 <p>
-  <a href="https://codebysatyam.me">
+  <a href="https://codebysatyam.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white&label=codebysatyam.me&labelColor=000000&color=00C896" />
   </a>
   &nbsp;
