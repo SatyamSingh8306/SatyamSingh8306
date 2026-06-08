@@ -47,7 +47,7 @@ AI company. Products span agentic dev tooling to interactive knowledge platforms
 
 | Package | Downloads | What it does |
 |---|---|---|
-| [mcp-arena](https://pypi.org/project/mcp-arena/) | **9k+** | MCP benchmarking. People use it. I'm as surprised as you are. |
+| [mcp-arena](https://pypi.org/project/mcp-arena/) | **10k+** | MCP benchmarking. People use it. I'm as surprised as you are. |
 | [sasefied](https://pypi.org/project/sasefied/) | **2.5k+** | Industry-specific multi-agent orchestration — airlines, healthcare, EV, and more. LangGraph under the hood. |
 | [unified-xai](https://pypi.org/project/unified-xai/) | **2k+** | 16+ explainability methods across PyTorch, TF, Keras, ONNX. Because "the model said so" isn't an explanation. |
 | [datacleanerx](https://pypi.org/project/datacleanerx/) | **2.5k+** | ML preprocessing in one line. 60–80% less suffering. |
