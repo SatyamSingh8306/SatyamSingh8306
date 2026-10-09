@@ -1,130 +1,188 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://raw.githubusercontent.com/SatyamSingh8306/SatyamSingh8306/main/header.svg" width="100%" />
 
-*"The unexamined commit is not worth pushing."*
+### I build to understand. I ship to learn.
 
-<p>
-  <a href="https://codebysatyam.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white&label=codebysatyam.vercel.app&labelColor=000000&color=00C896" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/satyam8306">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" />
-  </a>
-  &nbsp;
-  <a href="https://huggingface.co/aicinema69">
-    <img src="https://img.shields.io/badge/HuggingFace-aicinema69-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000&labelColor=FFD21E&color=FFA500" />
-  </a>
-  &nbsp;
-  <a href="mailto:satyamsingh7734@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=C0392B" />
-  </a>
-</p>
+*AI · Software · Products · Open Source*
+
+<br/>
+
+<a href="https://codebysatyam.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="https://linkedin.com/in/satyam8306"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://huggingface.co/aicinema69"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" /></a> <a href="mailto:satyamsingh7734@gmail.com"><img src="https://img.shields.io/badge/Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 ---
 
-I build things that think. Sometimes they think better than me. I've made peace with that.
+## I. Belief
 
-Founder of **[AetherMind](https://aethermind-one.vercel.app/)** — an AI company building tools that make intelligence accessible, interactive, and occasionally philosophical. Part-time SDE at **Sasefied**.
+I believe the best technology begins with a question, not an answer.
 
----
+Every useful product starts with someone experiencing a problem. My job is to understand that problem well enough to build something that makes it smaller.
 
-## ◈ Ventures
+I listen, build, test, and listen again.
 
-**[AetherMind](https://aethermind-one.vercel.app/)** &nbsp;·&nbsp; *Founder*  
-AI company. Products span agentic dev tooling to interactive knowledge platforms.
+**Code is how I build. Feedback is how I know what deserves to exist.**
 
-&nbsp;&nbsp;&nbsp;↳ **[AetherMind CLI](https://github.com/Aether-Mind/aethermind)** — Open-source coding agent with hash-pointer context management, multi-provider support (OpenAI, Gemini, Ollama, Groq...), and `/swarm` for parallel multi-agent execution. For when one AI existential crisis isn't enough.
+I work across AI, software, and the systems connecting them. I care less about whether something is technically impressive than whether it makes a meaningful difference to the person using it.
 
-&nbsp;&nbsp;&nbsp;↳ **[Philorium](https://philorium.vercel.app/)** — Have real conversations with AI personas of Socrates, Nietzsche, Marcus Aurelius, and others. Text & voice now. Video coming. Turns passive knowledge into dialogue. *Ranking on Google — Aristotle approves.*
-
----
-
-## ◈ Libraries
-
-| Package | Downloads | What it does |
-|---|---|---|
-| [mcp-arena](https://pypi.org/project/mcp-arena/) | **10k+** | MCP benchmarking. People use it. I'm as surprised as you are. |
-| [sasefied](https://pypi.org/project/sasefied/) | **2.5k+** | Industry-specific multi-agent orchestration — airlines, healthcare, EV, and more. LangGraph under the hood. |
-| [unified-xai](https://pypi.org/project/unified-xai/) | **2k+** | 16+ explainability methods across PyTorch, TF, Keras, ONNX. Because "the model said so" isn't an explanation. |
-| [datacleanerx](https://pypi.org/project/datacleanerx/) | **2.5k+** | ML preprocessing in one line. 60–80% less suffering. |
-| + more | — | Apparently I have a problem. |
+A working system is an achievement. A useful system is the point.
 
 ---
 
-## ◈ Models & Datasets
+## II. Work
 
-**12 models · 4 datasets** published on [🤗 Hugging Face](https://huggingface.co/aicinema69)
+*Ideas become interesting when they survive contact with reality.*
 
-| Model | Type | What it does |
-|---|---|---|
-| [gpt2-growing](https://huggingface.co/aicinema69/gpt2-growing) | Text Generation · 0.1B | Fine-tuned GPT-2 for generative tasks |
-| [gpt2-growing-large](https://huggingface.co/aicinema69/gpt2-growing-large) | Text Generation · 0.1B | Scaled variant, updated this week |
-| [audio-emotion-detector-v1.0](https://huggingface.co/aicinema69/audio-emotion-detector-v1.0) | Audio Classification · 85.8M | Detects emotion from raw audio |
-| [LegalXRT](https://huggingface.co/aicinema69/LegalXRT) | Text Generation · 0.1B | Legal domain fine-tune |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [DynamisOS](https://www.dynamisos.in/)
+
+**Founder**
+
+Software that adapts to the way people work. Teams build shared primitives; users shape their interfaces with coding agents.
+
+The idea: software should adapt to people, not the other way around.
+
+</td>
+<td width="50%" valign="top">
+
+### [Vellora](https://vellora.dynamisos.in/)
+
+**Founder**
+
+A digital agency building websites, applications, and automations for businesses.
+
+Technology matters most when it solves a problem someone is willing to pay to make disappear.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [AetherMind](https://github.com/Aether-Mind/aethermind)
+
+**Open source · Agent infrastructure**
+
+An agent harness inspired by tools like Claude Code, Codex, Hermes, and OpenClaw.
+
+Hash-pointer context management, multi-provider model support, and `/swarm` for parallel agents.
+
+Exploring what happens when agents can work beyond a single context or process.
+
+</td>
+<td width="50%" valign="top">
+
+### [Philorium](https://philorium.vercel.app/)
+
+**AI product**
+
+Conversations with AI personas inspired by Socrates, Nietzsche, Marcus Aurelius, and other thinkers.
+
+Text and voice today, with video planned.
+
+An experiment in turning knowledge from something we consume into something we can question.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ◈ GitHub
+## III. Tools
+
+*I build tools because I encounter problems worth solving. I publish them because those problems are rarely mine alone.*
+
+| Project                                                    |        Adoption | Purpose                                                            |
+| ---------------------------------------------------------- | --------------: | ------------------------------------------------------------------ |
+| [**mcp-arena**](https://pypi.org/project/mcp-arena/)       |  10k+ downloads | Discover, test, and benchmark MCP servers                          |
+| [**sasefied**](https://pypi.org/project/sasefied/)         | 2.5k+ downloads | Multi-agent orchestration built around LangGraph                   |
+| [**datacleanerx**](https://pypi.org/project/datacleanerx/) | 2.5k+ downloads | Simplify common machine-learning preprocessing                     |
+| [**unified-xai**](https://pypi.org/project/unified-xai/)   |   2k+ downloads | Explainability methods across PyTorch, TensorFlow, Keras, and ONNX |
+
+*Download counts are approximate and should be refreshed as projects grow.*
+
+---
+
+## IV. Questions
+
+*Engineering asks whether something can be built. Research asks whether the assumptions behind it are right.*
+
+### [Kantian AGI Benchmark](https://github.com/SatyamSingh8306)
+
+An exploration of a distinction between two kinds of intelligence:
+
+* **Verstand:** the ability to reason, solve problems, and understand the world.
+* **Vernunft:** the ability to examine principles, assumptions, and the reasons behind our actions.
+
+The central question: does greater problem-solving ability necessarily imply better reasoning about principles?
+
+My work explores this distinction through the Kantian AGI Benchmark (KAB), comparing its results with established knowledge and reasoning benchmarks.
+
+*The hypothesis is not the conclusion. The evidence has to decide.*
+
+---
+
+## V. Models
+
+**12 models · 4 datasets** on [Hugging Face](https://huggingface.co/aicinema69).
+
+| Model                                                                                                                          | Purpose                                |
+| ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------- |
+| [gpt2-growing](https://huggingface.co/aicinema69/gpt2-growing) · [Large](https://huggingface.co/aicinema69/gpt2-growing-large) | GPT-2 fine-tuning for generative tasks |
+| [audio-emotion-detector](https://huggingface.co/aicinema69/audio-emotion-detector-v1.0)                                        | Emotion detection from raw audio       |
+| [LegalXRT](https://huggingface.co/aicinema69/LegalXRT)                                                                         | Fine-tuning for legal-domain tasks     |
+
+Models are experiments made tangible. Their real value lies in what they help us understand, predict, or create.
+
+---
+
+## VI. Practice
+
+*Thinking matters. Practice makes thinking precise.*
+
+* **LeetCode:** Knight · 400+ problems solved
+* **HackerRank:** 5★ Python · 5★ Problem Solving · 6★ 30 Days of Code
+
+I enjoy problems that require more than finding a working answer: understanding the constraints, choosing the right abstraction, and knowing why a solution works.
+
+---
+
+## VII. Craft
+
+*Tools change. The ability to learn, reason, and build is what compounds.*
+
+| Domain                      | Tools and techniques                                                             |
+| --------------------------- | -------------------------------------------------------------------------------- |
+| **Languages**               | Python · TypeScript · JavaScript · Java · C · SQL                                |
+| **AI & agents**             | LangChain · LangGraph · RAG · MCP · Tool calling · Agent orchestration           |
+| **LLMs**                    | Fine-tuning · LoRA/QLoRA · Quantization · Distillation · Ollama                  |
+| **ML & XAI**                | PyTorch · TensorFlow · Keras · Scikit-learn · ONNX · SHAP · LIME · OpenCV · YOLO |
+| **Application development** | React · Next.js · FastAPI · Node.js · Flask · MongoDB · Supabase                 |
+| **Infrastructure**          | Docker · Kubernetes · AWS · Redis · RabbitMQ · GitHub Actions                    |
+
+I am especially interested in the space where AI systems meet real users: agent reliability, useful interfaces, evaluation, and the infrastructure required to make intelligent software dependable.
+
+---
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=SatyamSingh8306&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true&hide_rank=false&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117" />
-&nbsp;
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=SatyamSingh8306&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=SatyamSingh8306&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117" />
 
-</div>
+<br/>
 
----
+### The work continues.
 
-## ◈ Experience
+I don't think of a portfolio as a record of finished things. I think of it as a record of questions I have tried to answer.
 
-**↗ SDE Part-time — Sasefied** &nbsp;`Apr 2025 – Present`  
-ATS-compliant resume platform, interview scoring with Redis, GPT-3 recruitment chatbot.
+Some answers become products. Some become tools. Some lead to better questions.
 
-**↗ AI Intern — Foodnest Technology** &nbsp;`Jun – Jul 2025`  
-3-tier agentic system · 1,800 docs/min · 95% accuracy · VLM image understanding.
+The point is to keep building.
 
----
+<br/>
 
-## ◈ Stack
-
-```
-Languages     Python · TypeScript · JavaScript · Java · C · SQL
-
-Neural Nets   ANN · CNN · RNN · LSTM · GRU · Bidirectional RNN · Transformers
-              Attention mechanisms · Seq2Seq · Encoder-Decoder · and deeper...
-
-LLM/GenAI     Fine-tuning · LoRA · QLoRA · Quantization (GPTQ, GGUF, AWQ)
-              Ternary / 1-bit weights · Knowledge Distillation · RLHF
-              RAG · Agentic pipelines · LangChain · LangGraph · LangSmith · Ollama
-
-Frameworks    PyTorch · TensorFlow · Keras · Scikit-learn · HuggingFace Transformers
-              ONNX · SHAP · LIME · Grad-CAM · OpenCV · YOLO · spaCy · NLTK
-
-Web           React · Next.js · FastAPI · Node.js · Express · MongoDB · Supabase · Flask
-
-Infra         Docker · Kubernetes · AWS · RabbitMQ · Redis · GitHub Actions · CI/CD
-```
-
----
-
-## ◈ Competitive Programming
-
-```
-LeetCode     Peak rank #1432  ·  300+ problems  ·  50 & 100 day badges
-HackerRank   5★ Python  ·  5★ Problem Solving  ·  6★ 30 Days of Code
-```
-
----
-
-<div align="center">
-
-*If you've scrolled this far — hi. Let's build something.*
-
-`→` [aethermind-one.vercel.app](https://aethermind-one.vercel.app) &nbsp;·&nbsp; [philorium.vercel.app](https://philorium.vercel.app)
+<a href="https://www.dynamisos.in/">DynamisOS</a> · <a href="https://vellora.dynamisos.in/">Vellora</a> · <a href="https://github.com/Aether-Mind/aethermind">AetherMind</a> · <a href="https://philorium.vercel.app/">Philorium</a> · <a href="https://github.com/SatyamSingh8306">GitHub</a>
 
 </div>
